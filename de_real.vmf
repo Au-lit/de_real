@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "87"
+	"mapversion" "91"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "87"
+	"mapversion" "91"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -6763,7 +6763,7 @@ entity
 	"classname" "info_player_terrorist"
 	"angles" "0 0 0"
 	"enabled" "1"
-	"origin" "-336 320 208"
+	"origin" "-224 352 208"
 	editor
 	{
 		"color" "220 30 220"
@@ -6778,7 +6778,7 @@ entity
 	"classname" "info_player_terrorist"
 	"angles" "0 0 0"
 	"enabled" "1"
-	"origin" "-240 320 208"
+	"origin" "-144 384 208"
 	editor
 	{
 		"color" "220 30 220"
