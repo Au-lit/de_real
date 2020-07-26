@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "98"
+	"mapversion" "100"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "98"
+	"mapversion" "100"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -5886,82 +5886,6 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
-	solid
-	{
-		"id" "359"
-		side
-		{
-			"id" "194"
-			"plane" "(-447.762 -1079.58 128) (-512 -1008.24 128) (-440.656 -944 128)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[0.743145 0.669131 0 -3.47173] 0.25"
-			"vaxis" "[0.669131 -0.743145 0 37.3165] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "195"
-			"plane" "(-512 -1008.24 64) (-447.762 -1079.58 64) (-376.422 -1015.34 64)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[0.743145 0.669131 0 -3.47173] 0.25"
-			"vaxis" "[0.669131 -0.743145 0 37.3165] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "196"
-			"plane" "(-447.766 -1079.58 64) (-512 -1008.24 64) (-512 -1008.24 128)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[-0.669131 0.743145 0 -37.3165] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "197"
-			"plane" "(-440.656 -944 64) (-376.421 -1015.34 64) (-376.422 -1015.34 128)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[-0.669131 0.743145 0 -37.3165] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "198"
-			"plane" "(-512 -1008.24 64) (-440.657 -944 64) (-440.656 -944 128)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[0.743145 0.669131 0 -3.47173] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "199"
-			"plane" "(-376.422 -1015.34 64) (-447.766 -1079.58 64) (-447.766 -1079.58 128)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
-			"uaxis" "[0.743145 0.669131 0 -3.47173] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 105 214"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
 	group
 	{
 		"id" "24"
@@ -5971,6 +5895,45 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "3629"
+	"classname" "prop_static"
+	"angles" "0 315.5 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadowdepth" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"disableX360" "0"
+	"drawinfastreflection" "0"
+	"enablelightbounce" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_cars/nuke_sedan01.mdl"
+	"preventpropcombine" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"shadowdepthnocache" "0"
+	"skin" "0"
+	"solid" "6"
+	"uniformscale" "1"
+	"origin" "-440 -1008 64"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
 	}
 }
 entity
