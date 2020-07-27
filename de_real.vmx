@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "104"
+	"mapversion" "105"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "104"
+	"mapversion" "105"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -6072,7 +6072,7 @@ entity
 	"classname" "info_player_counterterrorist"
 	"angles" "0 0 0"
 	"enabled" "1"
-	"origin" "-1940 -2000 208"
+	"origin" "-2048 -1232 208"
 	editor
 	{
 		"color" "220 30 220"
@@ -6087,7 +6087,7 @@ entity
 	"classname" "info_player_counterterrorist"
 	"angles" "0 0 0"
 	"enabled" "1"
-	"origin" "-2080 -1920 208"
+	"origin" "-2144 -1232 208"
 	editor
 	{
 		"color" "220 30 220"
@@ -6196,7 +6196,7 @@ entity
 		side
 		{
 			"id" "319"
-			"plane" "(-2240 -2304 160) (-2240 -1760 160) (-1792 -1760 160)"
+			"plane" "(-2240 -1408 160) (-2240 -864 160) (-1984 -864 160)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -6207,7 +6207,7 @@ entity
 		side
 		{
 			"id" "318"
-			"plane" "(-2240 -1760 64) (-2240 -2304 64) (-1792 -2304 64)"
+			"plane" "(-2240 -864 7.62939e-06) (-2240 -1408 7.62939e-06) (-1984 -1408 7.62939e-06)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -6218,7 +6218,7 @@ entity
 		side
 		{
 			"id" "317"
-			"plane" "(-2240 -2304 64) (-2240 -1760 64) (-2240 -1760 160)"
+			"plane" "(-2240 -1408 7.62939e-06) (-2240 -864 7.62939e-06) (-2240 -864 160)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6229,7 +6229,7 @@ entity
 		side
 		{
 			"id" "316"
-			"plane" "(-1792 -1760 64) (-1792 -2304 64) (-1792 -2304 160)"
+			"plane" "(-1984 -864 7.62939e-06) (-1984 -1408 7.62939e-06) (-1984 -1408 160)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6240,7 +6240,7 @@ entity
 		side
 		{
 			"id" "315"
-			"plane" "(-2240 -1760 64) (-1792 -1760 64) (-1792 -1760 160)"
+			"plane" "(-2240 -864 7.62939e-06) (-1984 -864 7.62939e-06) (-1984 -864 160)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6251,7 +6251,7 @@ entity
 		side
 		{
 			"id" "314"
-			"plane" "(-1792 -2304 64) (-2240 -2304 64) (-2240 -2304 160)"
+			"plane" "(-1984 -1408 7.62939e-06) (-2240 -1408 7.62939e-06) (-2240 -1408 160)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
