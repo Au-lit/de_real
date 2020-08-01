@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "136"
+	"mapversion" "137"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "16"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "136"
+	"mapversion" "137"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4410,7 +4410,7 @@ world
 		side
 		{
 			"id" "425"
-			"plane" "(-1056 -544 400) (-1056 -448.002 400) (-896 -544 400)"
+			"plane" "(-896 -544 400) (-1056 -544 400) (-1056 -448 400)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4421,7 +4421,7 @@ world
 		side
 		{
 			"id" "424"
-			"plane" "(-1056 -448.002 64) (-1056 -544 64) (-896 -544 64)"
+			"plane" "(-1056 -448 64) (-1056 -544 64) (-896 -544 64)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4432,7 +4432,7 @@ world
 		side
 		{
 			"id" "423"
-			"plane" "(-1056 -544 64) (-1056 -448.002 64) (-1056 -448.002 400)"
+			"plane" "(-1056 -544 64) (-1056 -448 64) (-1056 -448 400)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4454,7 +4454,7 @@ world
 		side
 		{
 			"id" "421"
-			"plane" "(-1056 -448.002 64) (-896 -544 64) (-896 -544 400)"
+			"plane" "(-1056 -448 64) (-896 -544 64) (-896 -544 400)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"

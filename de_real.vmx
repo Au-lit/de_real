@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "135"
+	"mapversion" "137"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "135"
+	"mapversion" "137"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1107,7 +1107,7 @@ world
 		side
 		{
 			"id" "1294"
-			"plane" "(-192 -1312 272) (-192 -1232 272) (-188 -1232 272)"
+			"plane" "(-192 -1316 272) (-192 -1232 272) (-188 -1232 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 -16] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -1118,7 +1118,7 @@ world
 		side
 		{
 			"id" "1295"
-			"plane" "(-192 -1232 240) (-192 -1312 240) (-188 -1312 240)"
+			"plane" "(-192 -1232 240) (-192 -1316 240) (-188 -1316 240)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 -16] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -1129,7 +1129,7 @@ world
 		side
 		{
 			"id" "1296"
-			"plane" "(-192 -1312 240) (-192 -1232 240) (-192 -1232 272)"
+			"plane" "(-192 -1316 240) (-192 -1232 240) (-192 -1232 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -1140,7 +1140,7 @@ world
 		side
 		{
 			"id" "1297"
-			"plane" "(-188 -1232 240) (-188 -1312 240) (-188 -1312 272)"
+			"plane" "(-188 -1232 240) (-188 -1316 240) (-188 -1316 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -1162,7 +1162,7 @@ world
 		side
 		{
 			"id" "1299"
-			"plane" "(-188 -1312 240) (-192 -1312 240) (-192 -1312 272)"
+			"plane" "(-188 -1316 240) (-192 -1316 240) (-192 -1316 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 -16] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -4410,7 +4410,7 @@ world
 		side
 		{
 			"id" "425"
-			"plane" "(-1056 -544 400) (-1056 -448.002 400) (-896 -544 400)"
+			"plane" "(-896 -544 400) (-1056 -544 400) (-1056 -448 400)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4421,7 +4421,7 @@ world
 		side
 		{
 			"id" "424"
-			"plane" "(-1056 -448.002 64) (-1056 -544 64) (-896 -544 64)"
+			"plane" "(-1056 -448 64) (-1056 -544 64) (-896 -544 64)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4432,7 +4432,7 @@ world
 		side
 		{
 			"id" "423"
-			"plane" "(-1056 -544 64) (-1056 -448.002 64) (-1056 -448.002 400)"
+			"plane" "(-1056 -544 64) (-1056 -448 64) (-1056 -448 400)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4454,7 +4454,7 @@ world
 		side
 		{
 			"id" "421"
-			"plane" "(-1056 -448.002 64) (-896 -544 64) (-896 -544 400)"
+			"plane" "(-1056 -448 64) (-896 -544 64) (-896 -544 400)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6571,7 +6571,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-193 -1360 256"
+	"origin" "-193 -1362 256"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -6589,7 +6589,7 @@ entity
 		side
 		{
 			"id" "1531"
-			"plane" "(-194 -1408 272) (-194 -1312 272) (-192 -1312 272)"
+			"plane" "(-194 -1408 272) (-194 -1316 272) (-192 -1316 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 60] 0.25"
 			"vaxis" "[0 -1 0 -16] 0.25"
@@ -6600,7 +6600,7 @@ entity
 		side
 		{
 			"id" "1530"
-			"plane" "(-194 -1312 240) (-194 -1408 240) (-192 -1408 240)"
+			"plane" "(-194 -1316 240) (-194 -1408 240) (-192 -1408 240)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 60] 0.25"
 			"vaxis" "[0 -1 0 -16] 0.25"
@@ -6611,7 +6611,7 @@ entity
 		side
 		{
 			"id" "1529"
-			"plane" "(-194 -1408 240) (-194 -1312 240) (-194 -1312 272)"
+			"plane" "(-194 -1408 240) (-194 -1316 240) (-194 -1316 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6622,7 +6622,7 @@ entity
 		side
 		{
 			"id" "1528"
-			"plane" "(-192 -1312 240) (-192 -1408 240) (-192 -1408 272)"
+			"plane" "(-192 -1316 240) (-192 -1408 240) (-192 -1408 272)"
 			"material" "GLASS/OFFLIGHTCOVER_OFF"
 			"uaxis" "[0 1 0 79.4482] 0.453125"
 			"vaxis" "[0 0 -1 64] 0.25"
@@ -6633,7 +6633,7 @@ entity
 		side
 		{
 			"id" "1527"
-			"plane" "(-194 -1312 240) (-192 -1312 240) (-192 -1312 272)"
+			"plane" "(-194 -1316 240) (-192 -1316 240) (-192 -1316 272)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 60] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
