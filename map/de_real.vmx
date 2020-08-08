@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "168"
+	"mapversion" "169"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "168"
+	"mapversion" "169"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -32,7 +32,7 @@ world
 		side
 		{
 			"id" "1680"
-			"plane" "(-2860 -4776 288) (-2844 -4776 288) (-2844 -4912 288)"
+			"plane" "(-2860 -4624 288) (-2844 -4624 288) (-2844 -4912 288)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -43,7 +43,7 @@ world
 		side
 		{
 			"id" "1681"
-			"plane" "(-2860 -4912 272) (-2844 -4912 272) (-2844 -4776 272)"
+			"plane" "(-2860 -4912 272) (-2844 -4912 272) (-2844 -4624 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -54,7 +54,7 @@ world
 		side
 		{
 			"id" "1682"
-			"plane" "(-2860 -4776 288) (-2860 -4912 288) (-2860 -4912 272)"
+			"plane" "(-2860 -4624 288) (-2860 -4912 288) (-2860 -4912 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -65,7 +65,7 @@ world
 		side
 		{
 			"id" "1683"
-			"plane" "(-2844 -4776 272) (-2844 -4912 272) (-2844 -4912 288)"
+			"plane" "(-2844 -4624 272) (-2844 -4912 272) (-2844 -4912 288)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -76,7 +76,7 @@ world
 		side
 		{
 			"id" "1684"
-			"plane" "(-2844 -4776 288) (-2860 -4776 288) (-2860 -4776 272)"
+			"plane" "(-2844 -4624 288) (-2860 -4624 288) (-2860 -4624 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1552,7 +1552,7 @@ world
 		side
 		{
 			"id" "1294"
-			"plane" "(-2848 -4776 288) (-2848 -4624 288) (-2844 -4624 288)"
+			"plane" "(-2848 -4776 272) (-2848 -4624 272) (-2844 -4624 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[-1 0 0 -127.998] 0.25"
 			"vaxis" "[0 1 0 64.0039] 0.25"
@@ -1574,7 +1574,7 @@ world
 		side
 		{
 			"id" "1296"
-			"plane" "(-2844 -4624 240) (-2844 -4776 240) (-2844 -4776 288)"
+			"plane" "(-2844 -4624 240) (-2844 -4776 240) (-2844 -4776 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 -1 0 -64.0039] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -1585,7 +1585,7 @@ world
 		side
 		{
 			"id" "1297"
-			"plane" "(-2848 -4776 240) (-2848 -4624 240) (-2848 -4624 288)"
+			"plane" "(-2848 -4776 240) (-2848 -4624 240) (-2848 -4624 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 -1 0 -64.0039] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -1596,7 +1596,7 @@ world
 		side
 		{
 			"id" "1298"
-			"plane" "(-2844 -4776 240) (-2848 -4776 240) (-2848 -4776 288)"
+			"plane" "(-2844 -4776 240) (-2848 -4776 240) (-2848 -4776 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[-1 0 0 -127.998] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -1607,7 +1607,7 @@ world
 		side
 		{
 			"id" "1299"
-			"plane" "(-2848 -4624 240) (-2844 -4624 240) (-2844 -4624 288)"
+			"plane" "(-2848 -4624 240) (-2844 -4624 240) (-2844 -4624 272)"
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[-1 0 0 -127.998] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
@@ -6413,45 +6413,6 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
-	}
-}
-entity
-{
-	"id" "5477"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableflashlight" "0"
-	"disableselfshadowing" "0"
-	"disableshadowdepth" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"drawinfastreflection" "0"
-	"enablelightbounce" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/chicken/chicken.mdl"
-	"preventpropcombine" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"shadowdepthnocache" "0"
-	"skin" "0"
-	"solid" "6"
-	"uniformscale" "2"
-	"origin" "-2918.39 -5092.52 65"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1500]"
 	}
 }
 entity
