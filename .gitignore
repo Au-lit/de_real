@@ -4,3 +4,5 @@ desktop.ini
 *.exe
 *.out
 *.app
+*.log
+*.nav
