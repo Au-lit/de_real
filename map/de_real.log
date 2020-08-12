@@ -27099,3 +27099,3515 @@ Level flags = 7f
 Total triangle count: 2313
 Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
 22 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 189
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40625 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 125 texinfos to 88
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 250 portalclusters
+ 810 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 157 visible clusters (0.00%)
+Total clusters visible: 46585
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 250
+visdatasize:18186  compressed from 16000
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+849 faces
+866951 square feet [124841032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+849 patches before subdivision
+23079 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 839518, max 318
+transfer lists:   6.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(114735, 45903, 16375)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38303, 5296, 127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12382, 569, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4350, 72, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1582, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(599, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(232, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(93, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0040 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             737/81920        5896/655360   ( 0.9%) 
+planes                 742/65536       14840/1310720  ( 1.1%) 
+vertexes              1208/65536       14496/786432   ( 1.8%) 
+nodes                  550/65536       17600/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  849/65536       47544/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         849/0            3396/0        ( 0.0%) 
+leaves                 560/65536       17920/2097152  ( 0.9%) 
+leaffaces              982/65536        1964/131072   ( 1.5%) 
+leafbrushes            282/65536         564/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5747/512000      22988/2048000  ( 1.1%) 
+edges                 3125/256000      12500/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1314/65536        2628/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      878356/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       18186/16777216 ( 0.1%) 
+entdata               [variable]        3440/393216   ( 0.9%) 
+LDR ambient table      560/65536        2240/262144   ( 0.9%) 
+HDR ambient table      560/65536        2240/262144   ( 0.9%) 
+LDR leaf ambient      3468/65536       97104/1835008  ( 5.3%) 
+HDR leaf ambient       560/65536       15680/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/226      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       40625/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2329
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+849 faces
+866951 square feet [124841032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+849 patches before subdivision
+23079 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 839518, max 318
+transfer lists:   6.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(114734, 45903, 16375)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38303, 5296, 127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12382, 569, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4350, 72, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1582, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(599, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(232, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(93, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             737/81920        5896/655360   ( 0.9%) 
+planes                 742/65536       14840/1310720  ( 1.1%) 
+vertexes              1208/65536       14496/786432   ( 1.8%) 
+nodes                  550/65536       17600/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  849/65536       47544/3670016  ( 1.3%) 
+hdr faces              849/65536       47544/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         849/0            3396/0        ( 0.0%) 
+leaves                 560/65536       17920/2097152  ( 0.9%) 
+leaffaces              982/65536        1964/131072   ( 1.5%) 
+leafbrushes            282/65536         564/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5747/512000      22988/2048000  ( 1.1%) 
+edges                 3125/256000      12500/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1314/65536        2628/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      878356/0        ( 0.0%) 
+HDR lightdata         [variable]      878356/0        ( 0.0%) 
+visdata               [variable]       18186/16777216 ( 0.1%) 
+entdata               [variable]        3440/393216   ( 0.9%) 
+LDR ambient table      560/65536        2240/262144   ( 0.9%) 
+HDR ambient table      560/65536        2240/262144   ( 0.9%) 
+LDR leaf ambient      3468/65536       97104/1835008  ( 5.3%) 
+HDR leaf ambient      3468/65536       97104/1835008  ( 5.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/226      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       40625/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2329
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 190
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40625 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 125 texinfos to 88
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 250 portalclusters
+ 810 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 157 visible clusters (0.00%)
+Total clusters visible: 46585
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 250
+visdatasize:18186  compressed from 16000
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+849 faces
+866951 square feet [124841032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+849 patches before subdivision
+23079 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 839518, max 318
+transfer lists:   6.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(94457, 29267, 4308)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27994, 3060, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8940, 392, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3205, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1152, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(448, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(174, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0047 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             737/81920        5896/655360   ( 0.9%) 
+planes                 742/65536       14840/1310720  ( 1.1%) 
+vertexes              1208/65536       14496/786432   ( 1.8%) 
+nodes                  550/65536       17600/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  849/65536       47544/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         849/0            3396/0        ( 0.0%) 
+leaves                 560/65536       17920/2097152  ( 0.9%) 
+leaffaces              982/65536        1964/131072   ( 1.5%) 
+leafbrushes            282/65536         564/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5747/512000      22988/2048000  ( 1.1%) 
+edges                 3125/256000      12500/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1314/65536        2628/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      878356/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       18186/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      560/65536        2240/262144   ( 0.9%) 
+HDR ambient table      560/65536        2240/262144   ( 0.9%) 
+LDR leaf ambient      3418/65536       95704/1835008  ( 5.2%) 
+HDR leaf ambient       560/65536       15680/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/226      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       40625/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2329
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+849 faces
+866951 square feet [124841032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+849 patches before subdivision
+23079 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 839518, max 318
+transfer lists:   6.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(94457, 29267, 4308)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27994, 3060, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8940, 392, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3205, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1152, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(448, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(174, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             737/81920        5896/655360   ( 0.9%) 
+planes                 742/65536       14840/1310720  ( 1.1%) 
+vertexes              1208/65536       14496/786432   ( 1.8%) 
+nodes                  550/65536       17600/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  849/65536       47544/3670016  ( 1.3%) 
+hdr faces              849/65536       47544/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         849/0            3396/0        ( 0.0%) 
+leaves                 560/65536       17920/2097152  ( 0.9%) 
+leaffaces              982/65536        1964/131072   ( 1.5%) 
+leafbrushes            282/65536         564/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5747/512000      22988/2048000  ( 1.1%) 
+edges                 3125/256000      12500/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1314/65536        2628/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      878356/0        ( 0.0%) 
+HDR lightdata         [variable]      878356/0        ( 0.0%) 
+visdata               [variable]       18186/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      560/65536        2240/262144   ( 0.9%) 
+HDR ambient table      560/65536        2240/262144   ( 0.9%) 
+LDR leaf ambient      3418/65536       95704/1835008  ( 5.2%) 
+HDR leaf ambient      3418/65536       95704/1835008  ( 5.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/226      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       40625/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2329
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 191
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40625 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 125 texinfos to 88
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 245 portalclusters
+ 798 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 132 visible clusters (0.00%)
+Total clusters visible: 44941
+Average clusters visible: 183
+Building PAS...
+Average clusters audible: 245
+visdatasize:17267  compressed from 15680
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+836 faces
+860144 square feet [123860824.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+836 patches before subdivision
+22528 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 769390, max 315
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98631, 30442, 4379)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28460, 3118, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8690, 387, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3095, 53, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1062, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(416, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(154, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(64, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             737/81920        5896/655360   ( 0.9%) 
+planes                 740/65536       14800/1310720  ( 1.1%) 
+vertexes              1185/65536       14220/786432   ( 1.8%) 
+nodes                  541/65536       17312/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  836/65536       46816/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         836/0            3344/0        ( 0.0%) 
+leaves                 551/65536       17632/2097152  ( 0.8%) 
+leaffaces              963/65536        1926/131072   ( 1.5%) 
+leafbrushes            277/65536         554/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5669/512000      22676/2048000  ( 1.1%) 
+edges                 3085/256000      12340/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1221/65536        2442/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      843492/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17267/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      551/65536        2204/262144   ( 0.8%) 
+HDR ambient table      551/65536        2204/262144   ( 0.8%) 
+LDR leaf ambient      3366/65536       94248/1835008  ( 5.1%) 
+HDR leaf ambient       551/65536       15428/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/226      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       40625/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2277
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+836 faces
+860144 square feet [123860824.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+836 patches before subdivision
+22528 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 769390, max 315
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98631, 30442, 4379)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28460, 3118, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8690, 387, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3095, 53, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1062, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(416, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(154, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(64, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0045 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             737/81920        5896/655360   ( 0.9%) 
+planes                 740/65536       14800/1310720  ( 1.1%) 
+vertexes              1185/65536       14220/786432   ( 1.8%) 
+nodes                  541/65536       17312/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  836/65536       46816/3670016  ( 1.3%) 
+hdr faces              836/65536       46816/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         836/0            3344/0        ( 0.0%) 
+leaves                 551/65536       17632/2097152  ( 0.8%) 
+leaffaces              963/65536        1926/131072   ( 1.5%) 
+leafbrushes            277/65536         554/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5669/512000      22676/2048000  ( 1.1%) 
+edges                 3085/256000      12340/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1221/65536        2442/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      843492/0        ( 0.0%) 
+HDR lightdata         [variable]      843492/0        ( 0.0%) 
+visdata               [variable]       17267/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      551/65536        2204/262144   ( 0.8%) 
+HDR ambient table      551/65536        2204/262144   ( 0.8%) 
+LDR leaf ambient      3366/65536       94248/1835008  ( 5.1%) 
+HDR leaf ambient      3366/65536       94248/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/226      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       40625/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2277
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 192
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40249 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 125 texinfos to 88
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 237 portalclusters
+ 761 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 130 visible clusters (0.00%)
+Total clusters visible: 42813
+Average clusters visible: 180
+Building PAS...
+Average clusters audible: 237
+visdatasize:16227  compressed from 15168
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+816 faces
+860491 square feet [123910744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+816 patches before subdivision
+22400 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 767018, max 303
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100319, 30924, 4413)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28827, 3153, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8934, 394, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3181, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1101, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(431, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 97/8192         1164/98304    ( 1.2%) 
+brushsides             731/81920        5848/655360   ( 0.9%) 
+planes                 736/65536       14720/1310720  ( 1.1%) 
+vertexes              1161/65536       13932/786432   ( 1.8%) 
+nodes                  533/65536       17056/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  816/65536       45696/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              414/65536       23184/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         816/0            3264/0        ( 0.0%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces              936/65536        1872/131072   ( 1.4%) 
+leafbrushes            274/65536         548/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5560/512000      22240/2048000  ( 1.1%) 
+edges                 3027/256000      12108/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             85/32768         850/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      842832/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       16227/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      3273/65536       91644/1835008  ( 5.0%) 
+HDR leaf ambient       543/65536       15204/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       40249/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2228
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+816 faces
+860491 square feet [123910744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+816 patches before subdivision
+22400 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 767018, max 303
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100319, 30924, 4413)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28827, 3153, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8934, 394, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3181, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1101, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(431, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0047 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 97/8192         1164/98304    ( 1.2%) 
+brushsides             731/81920        5848/655360   ( 0.9%) 
+planes                 736/65536       14720/1310720  ( 1.1%) 
+vertexes              1161/65536       13932/786432   ( 1.8%) 
+nodes                  533/65536       17056/2097152  ( 0.8%) 
+texinfos                88/12288        6336/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  816/65536       45696/3670016  ( 1.2%) 
+hdr faces              816/65536       45696/3670016  ( 1.2%) 
+origfaces              414/65536       23184/3670016  ( 0.6%) 
+facebrushes             60/0             120/0        ( 0.0%) 
+facebrushlists         816/0            3264/0        ( 0.0%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces              936/65536        1872/131072   ( 1.4%) 
+leafbrushes            274/65536         548/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5560/512000      22240/2048000  ( 1.1%) 
+edges                 3027/256000      12108/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             85/32768         850/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      842832/0        ( 0.0%) 
+HDR lightdata         [variable]      842832/0        ( 0.0%) 
+visdata               [variable]       16227/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      3273/65536       91644/1835008  ( 5.0%) 
+HDR leaf ambient      3273/65536       91644/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       40249/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2228
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 193
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40641 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 91
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 240 portalclusters
+ 773 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 132 visible clusters (0.00%)
+Total clusters visible: 43698
+Average clusters visible: 182
+Building PAS...
+Average clusters audible: 240
+visdatasize:16540  compressed from 15360
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+824 faces
+860552 square feet [123919624.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+824 patches before subdivision
+22386 patches after subdivision
+2 direct lights
+0...
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 194
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40641 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 91
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 243 portalclusters
+ 777 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 157 visible clusters (0.00%)
+Total clusters visible: 44448
+Average clusters visible: 182
+Building PAS...
+Average clusters audible: 243
+visdatasize:17166  compressed from 15552
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+831 faces
+860584 square feet [123924232.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+831 patches before subdivision
+22455 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 773398, max 315
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101344, 31202, 4416)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28990, 3165, 109)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9044, 397, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3219, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1120, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(439, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             747/81920        5976/655360   ( 0.9%) 
+planes                 764/65536       15280/1310720  ( 1.2%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  544/65536       17408/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  831/65536       46536/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              418/65536       23408/3670016  ( 0.6%) 
+facebrushes             58/0             116/0        ( 0.0%) 
+facebrushlists         831/0            3324/0        ( 0.0%) 
+leaves                 554/65536       17728/2097152  ( 0.8%) 
+leaffaces              967/65536        1934/131072   ( 1.5%) 
+leafbrushes            281/65536         562/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5642/512000      22568/2048000  ( 1.1%) 
+edges                 3071/256000      12284/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849924/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17166/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      554/65536        2216/262144   ( 0.8%) 
+HDR ambient table      554/65536        2216/262144   ( 0.8%) 
+LDR leaf ambient      3367/65536       94276/1835008  ( 5.1%) 
+HDR leaf ambient       554/65536       15512/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       40641/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2264
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+831 faces
+860584 square feet [123924232.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+831 patches before subdivision
+22455 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 773398, max 315
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101344, 31202, 4416)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28990, 3165, 109)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9044, 397, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3219, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1120, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(439, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             747/81920        5976/655360   ( 0.9%) 
+planes                 764/65536       15280/1310720  ( 1.2%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  544/65536       17408/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  831/65536       46536/3670016  ( 1.3%) 
+hdr faces              831/65536       46536/3670016  ( 1.3%) 
+origfaces              418/65536       23408/3670016  ( 0.6%) 
+facebrushes             58/0             116/0        ( 0.0%) 
+facebrushlists         831/0            3324/0        ( 0.0%) 
+leaves                 554/65536       17728/2097152  ( 0.8%) 
+leaffaces              967/65536        1934/131072   ( 1.5%) 
+leafbrushes            281/65536         562/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5642/512000      22568/2048000  ( 1.1%) 
+edges                 3071/256000      12284/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849924/0        ( 0.0%) 
+HDR lightdata         [variable]      849924/0        ( 0.0%) 
+visdata               [variable]       17166/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      554/65536        2216/262144   ( 0.8%) 
+HDR ambient table      554/65536        2216/262144   ( 0.8%) 
+LDR leaf ambient      3367/65536       94276/1835008  ( 5.1%) 
+HDR leaf ambient      3367/65536       94276/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       40641/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2264
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 195
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 91
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 243 portalclusters
+ 781 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 171 visible clusters (0.00%)
+Total clusters visible: 44810
+Average clusters visible: 184
+Building PAS...
+Average clusters audible: 243
+visdatasize:17161  compressed from 15552
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+831 faces
+860535 square feet [123917048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+831 patches before subdivision
+22571 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778780, max 313
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102112, 31456, 4468)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29099, 3187, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9057, 398, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3206, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1111, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(433, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0047 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 762/65536       15240/1310720  ( 1.2%) 
+vertexes              1188/65536       14256/786432   ( 1.8%) 
+nodes                  543/65536       17376/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  831/65536       46536/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         831/0            3324/0        ( 0.0%) 
+leaves                 553/65536       17696/2097152  ( 0.8%) 
+leaffaces              968/65536        1936/131072   ( 1.5%) 
+leafbrushes            285/65536         570/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5654/512000      22616/2048000  ( 1.1%) 
+edges                 3080/256000      12320/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849884/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17161/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      553/65536        2212/262144   ( 0.8%) 
+HDR ambient table      553/65536        2212/262144   ( 0.8%) 
+LDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+HDR leaf ambient       553/65536       15484/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2272
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+831 faces
+860535 square feet [123917048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+831 patches before subdivision
+22571 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778780, max 313
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102112, 31456, 4468)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29099, 3187, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9057, 398, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3206, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1111, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(433, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 762/65536       15240/1310720  ( 1.2%) 
+vertexes              1188/65536       14256/786432   ( 1.8%) 
+nodes                  543/65536       17376/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  831/65536       46536/3670016  ( 1.3%) 
+hdr faces              831/65536       46536/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         831/0            3324/0        ( 0.0%) 
+leaves                 553/65536       17696/2097152  ( 0.8%) 
+leaffaces              968/65536        1936/131072   ( 1.5%) 
+leafbrushes            285/65536         570/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5654/512000      22616/2048000  ( 1.1%) 
+edges                 3080/256000      12320/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849884/0        ( 0.0%) 
+HDR lightdata         [variable]      849884/0        ( 0.0%) 
+visdata               [variable]       17161/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      553/65536        2212/262144   ( 0.8%) 
+HDR ambient table      553/65536        2212/262144   ( 0.8%) 
+LDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+HDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2272
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 196
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 91
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 243 portalclusters
+ 781 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 171 visible clusters (0.00%)
+Total clusters visible: 44810
+Average clusters visible: 184
+Building PAS...
+Average clusters audible: 243
+visdatasize:17161  compressed from 15552
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+831 faces
+860535 square feet [123917048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+831 patches before subdivision
+22571 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778715, max 313
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102111, 31456, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29096, 3187, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9056, 398, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3205, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1111, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(433, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0052 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 762/65536       15240/1310720  ( 1.2%) 
+vertexes              1188/65536       14256/786432   ( 1.8%) 
+nodes                  543/65536       17376/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  831/65536       46536/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         831/0            3324/0        ( 0.0%) 
+leaves                 553/65536       17696/2097152  ( 0.8%) 
+leaffaces              968/65536        1936/131072   ( 1.5%) 
+leafbrushes            285/65536         570/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5654/512000      22616/2048000  ( 1.1%) 
+edges                 3080/256000      12320/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849884/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17161/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      553/65536        2212/262144   ( 0.8%) 
+HDR ambient table      553/65536        2212/262144   ( 0.8%) 
+LDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+HDR leaf ambient       553/65536       15484/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2272
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+831 faces
+860535 square feet [123917048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+831 patches before subdivision
+22571 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778715, max 313
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102111, 31456, 4469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29096, 3187, 110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9056, 398, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3205, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1111, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(433, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0041 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 762/65536       15240/1310720  ( 1.2%) 
+vertexes              1188/65536       14256/786432   ( 1.8%) 
+nodes                  543/65536       17376/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  831/65536       46536/3670016  ( 1.3%) 
+hdr faces              831/65536       46536/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         831/0            3324/0        ( 0.0%) 
+leaves                 553/65536       17696/2097152  ( 0.8%) 
+leaffaces              968/65536        1936/131072   ( 1.5%) 
+leafbrushes            285/65536         570/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5654/512000      22616/2048000  ( 1.1%) 
+edges                 3080/256000      12320/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             86/32768         860/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849884/0        ( 0.0%) 
+HDR lightdata         [variable]      849884/0        ( 0.0%) 
+visdata               [variable]       17161/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      553/65536        2212/262144   ( 0.8%) 
+HDR ambient table      553/65536        2212/262144   ( 0.8%) 
+LDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+HDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2272
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 197
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 130 texinfos to 93
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 245 portalclusters
+ 787 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 182 visible clusters (0.00%)
+Total clusters visible: 45463
+Average clusters visible: 185
+Building PAS...
+Average clusters audible: 245
+visdatasize:17278  compressed from 15680
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+838 faces
+860521 square feet [123915096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+838 patches before subdivision
+22548 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 780632, max 321
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102166, 31474, 4473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29098, 3188, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9071, 399, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3205, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1110, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 764/65536       15280/1310720  ( 1.2%) 
+vertexes              1196/65536       14352/786432   ( 1.8%) 
+nodes                  547/65536       17504/2097152  ( 0.8%) 
+texinfos                93/12288        6696/884736   ( 0.8%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  838/65536       46928/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             58/0             116/0        ( 0.0%) 
+facebrushlists         838/0            3352/0        ( 0.0%) 
+leaves                 557/65536       17824/2097152  ( 0.8%) 
+leaffaces              977/65536        1954/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5698/512000      22792/2048000  ( 1.1%) 
+edges                 3099/256000      12396/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             85/32768         850/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1233/65536        2466/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850088/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17278/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      557/65536        2228/262144   ( 0.8%) 
+HDR ambient table      557/65536        2228/262144   ( 0.8%) 
+LDR leaf ambient      3329/65536       93212/1835008  ( 5.1%) 
+HDR leaf ambient       557/65536       15596/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2286
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+838 faces
+860521 square feet [123915096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+838 patches before subdivision
+22548 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 780632, max 321
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102166, 31474, 4473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29098, 3188, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9071, 399, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3205, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1110, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 764/65536       15280/1310720  ( 1.2%) 
+vertexes              1196/65536       14352/786432   ( 1.8%) 
+nodes                  547/65536       17504/2097152  ( 0.8%) 
+texinfos                93/12288        6696/884736   ( 0.8%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  838/65536       46928/3670016  ( 1.3%) 
+hdr faces              838/65536       46928/3670016  ( 1.3%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             58/0             116/0        ( 0.0%) 
+facebrushlists         838/0            3352/0        ( 0.0%) 
+leaves                 557/65536       17824/2097152  ( 0.8%) 
+leaffaces              977/65536        1954/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5698/512000      22792/2048000  ( 1.1%) 
+edges                 3099/256000      12396/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             85/32768         850/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1233/65536        2466/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850088/0        ( 0.0%) 
+HDR lightdata         [variable]      850088/0        ( 0.0%) 
+visdata               [variable]       17278/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      557/65536        2228/262144   ( 0.8%) 
+HDR ambient table      557/65536        2228/262144   ( 0.8%) 
+LDR leaf ambient      3329/65536       93212/1835008  ( 5.1%) 
+HDR leaf ambient      3329/65536       93212/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2286
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+21 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 198
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 91
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 244 portalclusters
+ 783 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 172 visible clusters (0.00%)
+Total clusters visible: 45046
+Average clusters visible: 184
+Building PAS...
+Average clusters audible: 244
+visdatasize:17252  compressed from 15616
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22549 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778600, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101990, 31427, 4473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29069, 3186, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9045, 398, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3200, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1108, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(431, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0051 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5660/512000      22640/2048000  ( 1.1%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3325/65536       93100/1835008  ( 5.1%) 
+HDR leaf ambient       555/65536       15540/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2274
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22549 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778600, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101990, 31427, 4473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29069, 3186, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9045, 398, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3200, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1108, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(431, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0057 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces              833/65536       46648/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5660/512000      22640/2048000  ( 1.1%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849828/0        ( 0.0%) 
+HDR lightdata         [variable]      849828/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3325/65536       93100/1835008  ( 5.1%) 
+HDR leaf ambient      3325/65536       93100/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2274
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 199
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 91
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 244 portalclusters
+ 783 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 172 visible clusters (0.00%)
+Total clusters visible: 45046
+Average clusters visible: 184
+Building PAS...
+Average clusters audible: 244
+visdatasize:17252  compressed from 15616
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22549 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778600, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101990, 31427, 4473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29069, 3186, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9045, 398, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3200, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1108, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(431, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0051 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5660/512000      22640/2048000  ( 1.1%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3325/65536       93100/1835008  ( 5.1%) 
+HDR leaf ambient       555/65536       15540/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2274
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+23 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22549 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778600, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101990, 31427, 4473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29069, 3186, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9045, 398, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3200, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1108, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(431, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             753/81920        6024/655360   ( 0.9%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces              833/65536       46648/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5660/512000      22640/2048000  ( 1.1%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849828/0        ( 0.0%) 
+HDR lightdata         [variable]      849828/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3325/65536       93100/1835008  ( 5.1%) 
+HDR leaf ambient      3325/65536       93100/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2274
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 200
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 92
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 244 portalclusters
+ 783 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 172 visible clusters (0.00%)
+Total clusters visible: 45046
+Average clusters visible: 184
+Building PAS...
+Average clusters audible: 244
+visdatasize:17252  compressed from 15616
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22541 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778646, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102043, 31441, 4472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29075, 3186, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9049, 398, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3201, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1109, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0115 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             758/81920        6064/655360   ( 0.9%) 
+planes                 768/65536       15360/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              969/65536        1938/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5664/512000      22656/2048000  ( 1.1%) 
+edges                 3083/256000      12332/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             85/32768         850/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850100/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3326/65536       93128/1835008  ( 5.1%) 
+HDR leaf ambient       555/65536       15540/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2278
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22541 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778646, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102043, 31441, 4472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29075, 3186, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9049, 398, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3201, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1109, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0041 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             758/81920        6064/655360   ( 0.9%) 
+planes                 768/65536       15360/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces              833/65536       46648/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              969/65536        1938/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5664/512000      22656/2048000  ( 1.1%) 
+edges                 3083/256000      12332/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             85/32768         850/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1248/65536        2496/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850100/0        ( 0.0%) 
+HDR lightdata         [variable]      850100/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3326/65536       93128/1835008  ( 5.1%) 
+HDR leaf ambient      3326/65536       93128/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2278
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+23 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 201
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41001 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 129 texinfos to 92
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 244 portalclusters
+ 783 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 172 visible clusters (0.00%)
+Total clusters visible: 45046
+Average clusters visible: 184
+Building PAS...
+Average clusters audible: 244
+visdatasize:17252  compressed from 15616
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22547 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778642, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102044, 31441, 4472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29097, 3188, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9054, 399, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3203, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1109, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             756/81920        6048/655360   ( 0.9%) 
+planes                 766/65536       15320/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5660/512000      22640/2048000  ( 1.1%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+HDR leaf ambient       555/65536       15540/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2274
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+833 faces
+860522 square feet [123915272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+833 patches before subdivision
+22547 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 778642, max 316
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102044, 31441, 4472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29097, 3188, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9054, 399, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3203, 54, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1109, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(432, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0046 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 99/8192         1188/98304    ( 1.2%) 
+brushsides             756/81920        6048/655360   ( 0.9%) 
+planes                 766/65536       15320/1310720  ( 1.2%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  545/65536       17440/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces              833/65536       46648/3670016  ( 1.3%) 
+origfaces              419/65536       23464/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         833/0            3332/0        ( 0.0%) 
+leaves                 555/65536       17760/2097152  ( 0.8%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5660/512000      22640/2048000  ( 1.1%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             84/32768         840/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1230/65536        2460/131072   ( 1.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      849836/0        ( 0.0%) 
+HDR lightdata         [variable]      849836/0        ( 0.0%) 
+visdata               [variable]       17252/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      555/65536        2220/262144   ( 0.8%) 
+HDR ambient table      555/65536        2220/262144   ( 0.8%) 
+LDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+HDR leaf ambient      3324/65536       93072/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41001/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2274
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 202
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41393 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 129 texinfos to 92
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+1 second elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 247 portalclusters
+ 799 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 181 visible clusters (0.00%)
+Total clusters visible: 46000
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 247
+visdatasize:17423  compressed from 15808
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+842 faces
+860472 square feet [123908072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+842 patches before subdivision
+22574 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 783791, max 319
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102393, 31553, 4492)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29309, 3212, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9093, 400, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3228, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1115, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(436, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(67, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             767/81920        6136/655360   ( 0.9%) 
+planes                 782/65536       15640/1310720  ( 1.2%) 
+vertexes              1202/65536       14424/786432   ( 1.8%) 
+nodes                  549/65536       17568/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         842/0            3368/0        ( 0.0%) 
+leaves                 559/65536       17888/2097152  ( 0.9%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5720/512000      22880/2048000  ( 1.1%) 
+edges                 3114/256000      12456/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             89/32768         890/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17423/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      559/65536        2236/262144   ( 0.9%) 
+HDR ambient table      559/65536        2236/262144   ( 0.9%) 
+LDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+HDR leaf ambient       559/65536       15652/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41393/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2300
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+842 faces
+860472 square feet [123908072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+842 patches before subdivision
+22574 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 783791, max 319
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102393, 31553, 4492)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29309, 3212, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9093, 400, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3228, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1115, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(436, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(67, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             767/81920        6136/655360   ( 0.9%) 
+planes                 782/65536       15640/1310720  ( 1.2%) 
+vertexes              1202/65536       14424/786432   ( 1.8%) 
+nodes                  549/65536       17568/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces              842/65536       47152/3670016  ( 1.3%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         842/0            3368/0        ( 0.0%) 
+leaves                 559/65536       17888/2097152  ( 0.9%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5720/512000      22880/2048000  ( 1.1%) 
+edges                 3114/256000      12456/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             89/32768         890/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850824/0        ( 0.0%) 
+HDR lightdata         [variable]      850824/0        ( 0.0%) 
+visdata               [variable]       17423/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      559/65536        2236/262144   ( 0.9%) 
+HDR ambient table      559/65536        2236/262144   ( 0.9%) 
+LDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+HDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41393/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2300
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+27 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 202
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41393 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 129 texinfos to 92
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 247 portalclusters
+ 799 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 181 visible clusters (0.00%)
+Total clusters visible: 46000
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 247
+visdatasize:17423  compressed from 15808
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+842 faces
+860472 square feet [123908072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+842 patches before subdivision
+22574 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 783791, max 319
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102393, 31553, 4492)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29309, 3212, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9093, 400, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3228, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1115, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(436, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(67, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             767/81920        6136/655360   ( 0.9%) 
+planes                 782/65536       15640/1310720  ( 1.2%) 
+vertexes              1202/65536       14424/786432   ( 1.8%) 
+nodes                  549/65536       17568/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         842/0            3368/0        ( 0.0%) 
+leaves                 559/65536       17888/2097152  ( 0.9%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5720/512000      22880/2048000  ( 1.1%) 
+edges                 3114/256000      12456/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             89/32768         890/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17423/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      559/65536        2236/262144   ( 0.9%) 
+HDR ambient table      559/65536        2236/262144   ( 0.9%) 
+LDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+HDR leaf ambient       559/65536       15652/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41393/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2300
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+842 faces
+860472 square feet [123908072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+842 patches before subdivision
+22574 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 783791, max 319
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102393, 31553, 4492)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29309, 3212, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9093, 400, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3228, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1115, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(436, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(67, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             767/81920        6136/655360   ( 0.9%) 
+planes                 782/65536       15640/1310720  ( 1.2%) 
+vertexes              1202/65536       14424/786432   ( 1.8%) 
+nodes                  549/65536       17568/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces              842/65536       47152/3670016  ( 1.3%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         842/0            3368/0        ( 0.0%) 
+leaves                 559/65536       17888/2097152  ( 0.9%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5720/512000      22880/2048000  ( 1.1%) 
+edges                 3114/256000      12456/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             89/32768         890/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850824/0        ( 0.0%) 
+HDR lightdata         [variable]      850824/0        ( 0.0%) 
+visdata               [variable]       17423/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      559/65536        2236/262144   ( 0.9%) 
+HDR ambient table      559/65536        2236/262144   ( 0.9%) 
+LDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+HDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41393/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2300
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+materialPath: E:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.vmf
+Map revision 203
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41393 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 129 texinfos to 92
+Reduced 12 texdatas to 10 (291 bytes to 253)
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+reading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.prt
+ 247 portalclusters
+ 799 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 181 visible clusters (0.00%)
+Total clusters visible: 46000
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 247
+visdatasize:17423  compressed from 15808
+writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+842 faces
+860484 square feet [123909752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+842 patches before subdivision
+22574 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 783780, max 319
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102397, 31555, 4492)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29322, 3213, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9100, 401, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3232, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1117, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(436, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(67, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             767/81920        6136/655360   ( 0.9%) 
+planes                 786/65536       15720/1310720  ( 1.2%) 
+vertexes              1202/65536       14424/786432   ( 1.8%) 
+nodes                  549/65536       17568/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         842/0            3368/0        ( 0.0%) 
+leaves                 559/65536       17888/2097152  ( 0.9%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5720/512000      22880/2048000  ( 1.1%) 
+edges                 3114/256000      12456/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             89/32768         890/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17423/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      559/65536        2236/262144   ( 0.9%) 
+HDR ambient table      559/65536        2236/262144   ( 0.9%) 
+LDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+HDR leaf ambient       559/65536       15652/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      205872/0        ( 0.0%) 
+physics               [variable]       41393/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 2300
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+842 faces
+860484 square feet [123909752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+842 patches before subdivision
+22574 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 783780, max 319
+transfer lists:   6.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102397, 31555, 4492)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29322, 3213, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9100, 401, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3232, 55, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1117, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(436, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(67, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             767/81920        6136/655360   ( 0.9%) 
+planes                 786/65536       15720/1310720  ( 1.2%) 
+vertexes              1202/65536       14424/786432   ( 1.8%) 
+nodes                  549/65536       17568/2097152  ( 0.8%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 10/4096          320/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  842/65536       47152/3670016  ( 1.3%) 
+hdr faces              842/65536       47152/3670016  ( 1.3%) 
+origfaces              423/65536       23688/3670016  ( 0.6%) 
+facebrushes             62/0             124/0        ( 0.0%) 
+facebrushlists         842/0            3368/0        ( 0.0%) 
+leaves                 559/65536       17888/2097152  ( 0.9%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            288/65536         576/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5720/512000      22880/2048000  ( 1.1%) 
+edges                 3114/256000      12456/1024000  ( 1.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             89/32768         890/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      850960/0        ( 0.0%) 
+HDR lightdata         [variable]      850960/0        ( 0.0%) 
+visdata               [variable]       17423/16777216 ( 0.1%) 
+entdata               [variable]        3441/393216   ( 0.9%) 
+LDR ambient table      559/65536        2236/262144   ( 0.9%) 
+HDR ambient table      559/65536        2236/262144   ( 0.9%) 
+LDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+HDR leaf ambient      3370/65536       94360/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/224      ( 0.4%) 
+pakfile               [variable]      262292/0        ( 0.0%) 
+physics               [variable]       41393/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 2300
+Writing e:\program files (x86)\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_real\wingmancontest2020\map\de_real.bsp
+24 seconds elapsed

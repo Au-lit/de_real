@@ -1,3 +1,6 @@
 /*.bsp
 desktop.ini
 *.bsp
+*.exe
+*.out
+*.app
