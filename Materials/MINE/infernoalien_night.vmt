@@ -9,7 +9,7 @@ $abovewater 1
 $translucent 1
 //$envmap env_cubemap
 $forceexpensive 1
-$normalmap "GreatIce/causticbumpmap"
+$normalmap "MINE/causticbumpmap"
 
 $reflecttexture _rt_WaterReflection
 $refracttexture _rt_WaterRefraction

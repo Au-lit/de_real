@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "GreatIce/ice"
+	"$basetexture" "MINE/icetop"
 	"$surfaceprop" "glass"
 	"$translucent" 1
 
