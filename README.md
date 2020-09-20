@@ -7,6 +7,6 @@ If you want to apply modification you can either apply a serial patch or fork th
 ## Where I have took my textures
    de_sparity | de_kaizen | de_breach
 --------------|-----------|-------------
-Ice on both fountains|various concretes and tiles| nothing for now.
+Ice on both fountains|various concretes and tiles| glass
 
-I still need a texture artist...
+That mean I still need a texture artist...
