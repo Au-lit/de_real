@@ -1,5 +1,5 @@
 # 変のラジオ塔 (Hen no rajio-tō) [WIP]
-We are in a near future and the chinese governement has gone wild. They had the good idea of putting a 5G tower in the exact center of a shopping center. The center of the center... Anyway citizens aren't happy. Neither are anti-5G militants, so they decided to blow it up. You will stand for the governement or **against** it.
+We are in a near future and the chinese governement has gone wild. They had the good idea of putting a 5G tower in the exact center of a shopping center. The center of the center... Anyway citizens aren't happy. Neither are anti-5G militants, so they decided to blow it up. You will stand for the governement or ~~as Trump~~ **against** it.
 
  This is a map for the $1250+ 2020 Wingman Level Design Contest. You can [see the workshop release here.](https://steamcommunity.com/sharedfiles/filedetails/?id=2178979857 "de_real on the workshop")
 
